@@ -7,7 +7,7 @@ My areas and interests:
 
 - 🎰Machine Learning
   - Reinforcement Learning
-  - Agentic LLMs
+  - Natural Language Processing / Agentic LLMs
   - Computer Vision / Image Processing
  
 - 💻Software Engineering
