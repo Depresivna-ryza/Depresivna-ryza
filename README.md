@@ -57,14 +57,14 @@ Reinforcement learning in Rust (SARSA, DQN, AlphaZero).
 ![](https://nirzak-streak-stats.vercel.app/?user=Depresivna-ryza&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Depresivna-ryza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
- -->
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Depresivna-ryza&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ![](https://github-readme-stats.vercel.app/api?username=Depresivna-ryza&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Depresivna-ryza&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Depresivna-ryza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<!--
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
